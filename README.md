@@ -3,7 +3,7 @@
 <table align="center">
    <tr>
       <td>
-         <h2><a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px" height="30%"/></a></h2><br/><br/>
+         <h2><a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a></h2><br/><br/>
          <p align="center">
          - 🔭 We currently working on <strong><a href="">Android Development</a></strong> -
          <br/>
@@ -19,7 +19,7 @@
          </p>  
       </td>
       <td>
-      <h2 align="center" height="30%">📊 Github Statistics 📊 </h2>   
+      <h2 align="center">📊 Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=intellisoftuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></br></br>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=intellisoftuz&theme=radical&show_icons=true&hide_border=true" />
