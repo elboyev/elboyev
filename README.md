@@ -1,4 +1,4 @@
-<h2 align="center">Hello! Welcome to INTELLISOFT <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" </h2>
+<h2 align="center">Hello! Welcome to INTELLISOFT <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
 <p align="center">
 <table align="center">
    <tr>
