@@ -13,7 +13,7 @@
          <br/>
          - 📫 How to reach me: <a href="https://t.me/thisisbahhtee">INTELLISOFT</a> on Telegram -
          <br/>
-         </p><br/><br/><br/>
+         </p><br/><br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellisoftuz&theme=radical&hide_border=true" />
          </p>  
@@ -24,7 +24,8 @@
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=intellisoftuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />   
          <br/><br/><br/>
-         <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=intellisoftuz&hide_title=true&hide_border=true&langs_count=5&layout=compact&v=2.png"/><br/><br/><br/>
+         [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+<br/><br/><br/>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=intellisoftuz&theme=radical&show_icons=true&hide_border=true" />
          <br/><br/><br/>         
       </td>
