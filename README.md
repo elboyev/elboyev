@@ -1,4 +1,5 @@
 <h2 align="center">Hello! Welcome to INTELLISOFT <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="center">
 <table align="center">
    <tr>
