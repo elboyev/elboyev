@@ -29,9 +29,11 @@
 <!--     visitors         -->
            <img align="center" src="https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000" alt="intellisoftuz" /> 
             </p>
+         
          <br/>
-         <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="intellisoftuz" /> 
+         <img align="center" src="https://github-profile-trophy.vercel.app/?intellisoftuz=ryo-ma&theme=radical" alt="intellisoftuz" /> 
          <br/>
+         
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=intellisoftuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></br></br>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=intellisoftuz&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/><br/> 
