@@ -4,7 +4,7 @@
    <tr>
       <td>
          <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a><br/><br/>
-<!--          <p align="left">
+         <p align="center">
          - 🔭 We currently working on <strong><a href="">Android Development</a></strong> -
          <br/>
          - 🌱 We currently learning <strong>VR and AR</strong> -
@@ -13,7 +13,7 @@
          <br/>
          - 📫 How to reach me: <a href="https://t.me/thisisbahhtee">INTELLISOFT</a> on Telegram -
          <br/>
-         </p><br/><br/> -->
+         </p><br/><br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellisoftuz&theme=radical&hide_border=true" />
          </p>  
