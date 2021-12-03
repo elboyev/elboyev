@@ -23,6 +23,9 @@
              <img src="https://guilyx.vercel.app/api/now-playing">
            </a>
          </p>
+         <p align="center">
+            <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SS,A,BB,A,B,C" />
+         </p>
       </td>
       <td>
          <br/><br/><br/>
