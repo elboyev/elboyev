@@ -6,7 +6,7 @@
          <p align="center">    
          <img align="center" src="https://avatars.githubusercontent.com/u/93880508?v=4" width="50%"/></a><br/>
          <br/><br/>
-            <a href="https://discord.gg/gcafe"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" alt="Discord Banner2"/></a>
+            <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="50%" alt="Banner"/></a>
          <br/><br/>
          - 🔭 We currently working on <strong><a href="">Android Development</a></strong> -
          <br/>
