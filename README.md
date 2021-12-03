@@ -17,14 +17,12 @@
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellisoftuz&theme=radical&hide_border=true" />
          </p>  
-         
          <p align="center">
            <a href="https://guilyx.vercel.app/api/now-playing?open">
              <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
              <img src="https://guilyx.vercel.app/api/now-playing">
            </a>
          </p>
-         
       </td>
       <td>
          <br/><br/><br/>
