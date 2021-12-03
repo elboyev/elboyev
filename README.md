@@ -3,7 +3,7 @@
 <table align="center">
    <tr>
       <td>   
-         <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a><br/>
+         <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a><br/><br/><br/>
          <p align="left">
          - 🔭 We currently working on <strong><a href="">Android Development</a></strong> -
          <br/>
