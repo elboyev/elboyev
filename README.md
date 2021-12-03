@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a><br/>
+         <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="50%"/></a><br/>
          <br/><br/>
 <!--             <a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="50%" alt="Banner"/></a> -->
 <!--          <br/><br/> -->
