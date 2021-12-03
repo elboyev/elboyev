@@ -23,7 +23,7 @@
       <h2 align="center">📊 Github Statistics 📊 </h2>   
          <br/>
          <p align="left"> 
-<!--            <img align="center" src="https://komarev.com/ghpvc/?username=intellisoftuz" alt="intellisoftuz" />  -->
+           <img align="center" src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="intellisoftuz" /> 
            <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=intellisoftuz.visitor-badge" alt="intellisoftuz" /></p>
          <br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=intellisoftuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /></br></br>
