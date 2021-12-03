@@ -24,8 +24,8 @@
            </a>
          </p>
          <p align="center">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Followers" />
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Commits" />
+            <img src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Followers" />
+            <img src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Commits" />
          </p>
       </td>
       <td>
