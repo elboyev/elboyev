@@ -27,9 +27,8 @@
 <!--     visitors         -->
            <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=intellisoftuz.visitor-badge" alt="intellisoftuz" />
 <!--     visitors         -->
-        
-            <img align="center" src="https://img.shields.io/github/forks/ryo-ma/github-profile-trophy"/> 
-            <img align="center" src="https://img.shields.io/github/stars/ryo-ma/github-profile-trophy"/> 
+            <img align="center" src="https://img.shields.io/github/forks/intellisoftuz/github-profile-trophy"/> 
+            <img align="center" src="https://img.shields.io/github/stars/intellisoftuz/github-profile-trophy"/> 
             </p>
 <!--          <br/>
          <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="intellisoftuz" /> 
