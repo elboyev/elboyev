@@ -27,8 +27,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Commit,Stars,Multilanguage,Followers,Repositories,PullRequest&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
       </td>
-      <td align="top">
-         <br/><br/><br/>
+      <td >
       <h2 align="center">📊 Github Statistics 📊 </h2>   
          <br/>
          <p align="left"> 
