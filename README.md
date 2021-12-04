@@ -18,12 +18,6 @@
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellisoftuz&theme=radical&hide_border=true" />
          </p>  
          <p align="center">
-           <a href="https://guilyx.vercel.app/api/now-playing?open">
-             <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-             <img src="https://guilyx.vercel.app/api/now-playing">
-           </a>
-         </p>
-         <p align="center">
             <img src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Commit,Stars,Multilanguage,Followers,Repositories,PullRequest&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
       </td>
@@ -39,6 +33,12 @@
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=intellisoftuz&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=intellisoftuz&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/><br/> 
+                  <p align="center">
+                    <a href="https://guilyx.vercel.app/api/now-playing?open">
+                      <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+                      <img src="https://guilyx.vercel.app/api/now-playing">
+                    </a>
+                  </p>
       </td>
    </tr>
 </table>
