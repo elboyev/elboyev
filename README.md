@@ -18,7 +18,7 @@
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellisoftuz&theme=radical&hide_border=true" />
          </p>  
          <p align="center">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Commit,Stars,MultiLanguage,Followers,Repositories,PullRequest&theme=juicyfresh&no-bg=true&no-frame=true"/>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=intellisoftuz&title=Commit,Stars,MultiLanguage,Followers,Repositories=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
       </td>
       <td >
