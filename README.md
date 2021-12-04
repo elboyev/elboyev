@@ -1,8 +1,8 @@
 <h2 align="center">Hello! Welcome to INTELLISOFT <img src="https://github.com/intellisoftuz/intellisoftuz/blob/main/wave.gif?raw=true" width="30px"/></h2>
 <p align="center">
-<table align="center">
-   <tr>
-      <td>
+<table >
+   <tr >
+      <td align="center">
          <h2><a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a></h2>
          <p align="center">
          - 🔭 We currently working on <strong><a href="">Android Development</a></strong> -
