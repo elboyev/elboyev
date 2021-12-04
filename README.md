@@ -5,9 +5,9 @@
       <td>
          <h2><a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a></h2>
          <p align="center">
-         - 🔭 We currently working on <strong><a href="">Android Development</a></strong> -
+         - 🔭 We are currently working on <strong>Android Development</strong> -
          <br/>
-         - 🌱 We currently learning <strong>VR and AR</strong> -
+         - 🌱 We are currently learning <strong>VR and AR</strong> -
          <br/>
          - 💬 Ask us about <strong>Java, Kotlin, Android, Firebase, TensorFlow, JavaScript, Python, C++, C# and Html, CSS</strong> -
          <br/>
