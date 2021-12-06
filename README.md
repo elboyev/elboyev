@@ -25,9 +25,9 @@
       <h2 align="center">📊 Github Statistics 📊 </h2>   
          <br/>
          <p align="left"> 
-           <img align="center" src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="intellisoftuz" /> 
+           <img align="center" src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="licence" /> 
 <!--     visitors         -->
-           <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=elboyev.visitor-badge" alt="intellisoftuz" />
+           <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=elboyev.visitor-badge" alt="bahhtee's visitors" />
 <!--     visitors         -->
             </p>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br>
