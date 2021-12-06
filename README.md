@@ -3,7 +3,7 @@
 <table align="center">
    <tr >
       <td>
-         <h2><a href="https://t.me/intellisoft"><img align="center" src="https://github.com/intellisoftuz/intellisoftuz/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a></h2>
+         <h2><a href="https://t.me/intellisoft"><img align="center" src="https://github.com/elboyev/elboyev/blob/main/intellisoft%20for%20github.png?raw=true" width="600px"/></a></h2>
          <p align="center">
          - 🔭 I'm currently working on <strong>Android Development</strong> -
          <br/>
@@ -15,7 +15,7 @@
          <br/>
          </p><br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intellisoftuz&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true" />
          </p>  
          <p align="center">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest&theme=juicyfresh&no-bg=true&no-frame=true"/>
