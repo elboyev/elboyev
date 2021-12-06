@@ -28,7 +28,7 @@
            <img align="center" src="https://badgen.net/github/license/Naereen/Strapdown.js" alt="licence" /> 
 <!--     visitors         -->
            <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=elboyev.visitor-badge" alt="bahhtee's visitors" />
-            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23128DCA&title_bg=%23606060&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felboyev&count_bg=%23128DCA&title_bg=%23606060&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
 <!--     visitors         -->
             </p>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br>
