@@ -18,7 +18,7 @@
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true" />
          </p>  
          <p align="center">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=matrix&no-bg=true&no-frame=true"/>
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=radical&no-bg=true&no-frame=true"/>
          </p>
       </td>
       <td >
