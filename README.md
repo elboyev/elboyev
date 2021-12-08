@@ -21,6 +21,9 @@
          <p align="center">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
+         <p align="center">                     
+             <img align="center" src="https://github-readme-stats.vercel.app/api?username=elboyev&show_icons=true&theme=midnight-purple)" />
+         </p>
       </td>
       <td >
       <h2 align="center">📊 Github Statistics 📊 </h2>   
