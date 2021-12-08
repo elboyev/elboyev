@@ -47,7 +47,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 ### Languages and Tools
-
 [<img align="left" alt="Swift" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665170-50cc2b80-faaf-11ea-907c-698f502e3e52.png">][website]
 [<img align="left" alt="Objective-C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665260-11520f00-fab0-11ea-93ed-91b2865dab20.png">][website]
 [<img align="left" alt="C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665258-0eefb500-fab0-11ea-9507-72f6ce250a2f.png">][website]
