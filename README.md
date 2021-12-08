@@ -15,6 +15,10 @@
          - 📫 How to reach me: <a href="https://t.me/thisisbahhtee">Baxtiyor</a> on Telegram -
          <br/>
          </p><br/>
+         <a href="https://dev.to/elboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="elboyev" height="30" width="40" /></a>
+<a href="https://fb.com/elboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elboyev" height="30" width="40" /></a>
+<a href="https://instagram.com/baxtiyor_elboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="baxtiyor_elboyev" height="30" width="40" /></a>
+<a href="https://medium.com/@elboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elboyev" height="30" width="40" /></a>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true" />
          </p>  
