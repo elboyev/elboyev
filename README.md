@@ -46,3 +46,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
+### Languages and Tools
+
+[<img align="left" alt="Swift" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665170-50cc2b80-faaf-11ea-907c-698f502e3e52.png">][website]
+[<img align="left" alt="Objective-C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665260-11520f00-fab0-11ea-93ed-91b2865dab20.png">][website]
+[<img align="left" alt="C" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665258-0eefb500-fab0-11ea-9507-72f6ce250a2f.png">][website]
+[<img align="left" alt="C++" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665259-10b97880-fab0-11ea-8ec5-d997fd483227.png">][website]
+[<img align="left" alt="JAVA" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665384-f59b3880-fab0-11ea-8ef5-c3f2b3358bb6.png">][website]
+[<img align="left" alt="Python" width="26px" src = "https://user-images.githubusercontent.com/23249828/93665388-f764fc00-fab0-11ea-9570-f14672db362c.png">][website]
