@@ -30,13 +30,6 @@
 <!--     visitors         -->
            <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=elboyev.visitor-badge" alt="bahhtee's visitors" />
 <!--     visitors         -->
-<img align="center" src="https://img.shields.io/github/followers/elboyev?label=Follow&style=social" alt="bahhtee's followers" />
-<img align="center" src="https://img.shields.io/github/stars/elboyev/awesome-github-profile-readme" alt="Stars Badge"/>
-<img align="center" src="https://img.shields.io/github/forks/elboyev/awesome-github-profile-readme" alt="Forks Badge"/>
-<img align="center" src="https://img.shields.io/github/issues-pr/elboyev/awesome-github-profile-readme" alt="Pull Requests Badge"/>
-<img align="center" src="https://img.shields.io/github/issues/elboyev/awesome-github-profile-readme" alt="Issues Badge"/>
-<img align="center" alt="GitHub contributors" src="https://img.shields.io/github/contributors/elboyev/awesome-github-profile-readme?color=2b9348">
-<img align="center" src="https://img.shields.io/github/license/elboyev/awesome-github-profile-readme?color=2b9348" alt="License Badge"/>
             </p>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=elboyev&theme=radical&show_icons=true&hide_border=true" />
