@@ -21,9 +21,6 @@
          <p align="center">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
-         <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api?username=elboyev&show_icons=true&theme=midnight-purple)" />
-         </p>
       </td>
       <td >
       <h2 align="center">📊 Github Statistics 📊 </h2>   
@@ -35,6 +32,12 @@
 <!--     visitors         -->
             <img align="center" src="https://img.shields.io/github/followers/elboyev?label=Follow&style=social" alt="bahhtee's followers" />
             </p>
+         <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=elboyev&theme=radical&show_icons=true&hide_border=true" />
           <br/><br/><br/> 
