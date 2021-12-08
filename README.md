@@ -40,6 +40,8 @@
                       <img src="https://guilyx.vercel.app/api/now-playing">
                     </a>
                   </p> -->
+         <h1>Now Playing</h1>
+         <a href="https://open.spotify.com/user/3yl5bzt59cm4m0e2c83j62lv5"><img align="center" src="https://github-readme-remake.vercel.app/api/spotify" alt="music" /> 
       </td>
    </tr>
 </table>
@@ -47,5 +49,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-### Now Playing 🎧
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/3yl5bzt59cm4m0e2c83j62lv5)
