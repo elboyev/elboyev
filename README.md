@@ -49,7 +49,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<a href="https://github.com/jstrieb/github-stats">
-![](https://github.com/elboyev/elboyev/blob/master/generated/overview.svg)
-![](https://github.com/elboyev/elboyev/blob/master/generated/languages.svg)
-</a>
