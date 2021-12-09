@@ -32,9 +32,9 @@
            <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=elboyev.visitor-badge" alt="bahhtee's visitors" />
 <!--     visitors         -->
             </p>
-         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br>
+         <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=elboyev&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /><b/r></br><br/>
          <img align="center" src="https://github-readme-stats.vercel.app/api?username=elboyev&theme=radical&show_icons=true&hide_border=true" />
-          <br/><br/><br/> 
+          <br/><br/>
 <!--                   <p align="center">
                     <a href="https://guilyx.vercel.app/api/now-playing?open">
                       <img src="https://guilyx.vercel.app/api/now-playing">
