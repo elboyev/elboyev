@@ -17,7 +17,7 @@
          </p>
          <br/>
          <p align="center">                     
-             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true" />
+             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true&count-private=true" />
          </p>  
          <p align="center">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
