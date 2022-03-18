@@ -21,7 +21,8 @@
          <br/>
          <p align="center">                     
              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elboyev&theme=radical&hide_border=true&count-private=true" />
-         </p>  
+         </p> 
+        <p align="center"><a href="https://stars.medv.io/Naereen/badges"><img src="https://stars.medv.io/Naereen/badges.svg" alt="Sparkline"></a></p>
          <p align="center">
             <img align="center" src="https://github-profile-trophy.vercel.app/?username=elboyev&title=Commit,Stars,MultipleLanguage,Followers,Repositories,PullRequest,Issues&theme=juicyfresh&no-bg=true&no-frame=true"/>
          </p>
@@ -52,4 +53,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<p><a href="https://stars.medv.io/Naereen/badges"><img src="https://stars.medv.io/Naereen/badges.svg" alt="Sparkline"></a></p>
+
