@@ -52,4 +52,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+<p><a href="https://stars.medv.io/Naereen/badges"><img src="https://stars.medv.io/Naereen/badges.svg" alt="Sparkline"></a></p>
